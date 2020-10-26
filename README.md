@@ -1,2 +1,0 @@
-# quickfile
-practice navigating
